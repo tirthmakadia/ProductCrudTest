@@ -1,0 +1,17 @@
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Service\bin\Debug\net8.0\ProductCrud.Service.deps.json
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Service\bin\Debug\net8.0\ProductCrud.Service.dll
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Service\bin\Debug\net8.0\ProductCrud.Service.pdb
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Service\obj\Debug\net8.0\ProductCrud.Service.csproj.AssemblyReference.cache
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Service\obj\Debug\net8.0\ProductCrud.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Service\obj\Debug\net8.0\ProductCrud.Service.AssemblyInfoInputs.cache
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Service\obj\Debug\net8.0\ProductCrud.Service.AssemblyInfo.cs
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Service\obj\Debug\net8.0\ProductCrud.Service.csproj.CoreCompileInputs.cache
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Service\obj\Debug\net8.0\ProductCrud.Service.dll
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Service\obj\Debug\net8.0\refint\ProductCrud.Service.dll
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Service\obj\Debug\net8.0\ProductCrud.Service.pdb
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Service\obj\Debug\net8.0\ref\ProductCrud.Service.dll
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Service\bin\Debug\net8.0\ProductCrud.Domain.dll
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Service\bin\Debug\net8.0\ProductCrud.Repository.dll
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Service\bin\Debug\net8.0\ProductCrud.Domain.pdb
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Service\bin\Debug\net8.0\ProductCrud.Repository.pdb
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Service\obj\Debug\net8.0\ProductC.1F7F0A47.Up2Date

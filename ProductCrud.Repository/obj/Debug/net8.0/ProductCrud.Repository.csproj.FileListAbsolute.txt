@@ -1,0 +1,17 @@
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Repository\bin\Debug\net8.0\ProductCrud.Repository.deps.json
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Repository\bin\Debug\net8.0\ProductCrud.Repository.runtimeconfig.json
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Repository\bin\Debug\net8.0\ProductCrud.Repository.dll
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Repository\bin\Debug\net8.0\ProductCrud.Repository.pdb
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Repository\obj\Debug\net8.0\ProductCrud.Repository.csproj.AssemblyReference.cache
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Repository\obj\Debug\net8.0\ProductCrud.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Repository\obj\Debug\net8.0\ProductCrud.Repository.AssemblyInfoInputs.cache
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Repository\obj\Debug\net8.0\ProductCrud.Repository.AssemblyInfo.cs
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Repository\obj\Debug\net8.0\ProductCrud.Repository.csproj.CoreCompileInputs.cache
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Repository\obj\Debug\net8.0\ProductCrud.Repository.dll
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Repository\obj\Debug\net8.0\refint\ProductCrud.Repository.dll
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Repository\obj\Debug\net8.0\ProductCrud.Repository.pdb
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Repository\obj\Debug\net8.0\ProductCrud.Repository.genruntimeconfig.cache
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Repository\obj\Debug\net8.0\ref\ProductCrud.Repository.dll
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Repository\bin\Debug\net8.0\ProductCrud.Domain.dll
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Repository\bin\Debug\net8.0\ProductCrud.Domain.pdb
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Repository\obj\Debug\net8.0\ProductC.9F3DE9B6.Up2Date

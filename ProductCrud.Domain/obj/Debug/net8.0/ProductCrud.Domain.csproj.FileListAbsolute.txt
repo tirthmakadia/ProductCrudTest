@@ -1,0 +1,14 @@
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Domain\bin\Debug\net8.0\ProductCrud.Domain.deps.json
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Domain\bin\Debug\net8.0\ProductCrud.Domain.runtimeconfig.json
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Domain\bin\Debug\net8.0\ProductCrud.Domain.dll
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Domain\bin\Debug\net8.0\ProductCrud.Domain.pdb
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Domain\obj\Debug\net8.0\ProductCrud.Domain.csproj.AssemblyReference.cache
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Domain\obj\Debug\net8.0\ProductCrud.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Domain\obj\Debug\net8.0\ProductCrud.Domain.AssemblyInfoInputs.cache
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Domain\obj\Debug\net8.0\ProductCrud.Domain.AssemblyInfo.cs
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Domain\obj\Debug\net8.0\ProductCrud.Domain.csproj.CoreCompileInputs.cache
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Domain\obj\Debug\net8.0\ProductCrud.Domain.dll
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Domain\obj\Debug\net8.0\refint\ProductCrud.Domain.dll
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Domain\obj\Debug\net8.0\ProductCrud.Domain.pdb
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Domain\obj\Debug\net8.0\ProductCrud.Domain.genruntimeconfig.cache
+D:\Tirth\Projects\.Net Projects\Test\ProductCrud\ProductCrud.Domain\obj\Debug\net8.0\ref\ProductCrud.Domain.dll
